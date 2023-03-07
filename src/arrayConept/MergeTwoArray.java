@@ -5,6 +5,8 @@ import java.util.Arrays;
 public class MergeTwoArray {
 
 	public static void main(String[] args) {
+		
+		int wi=23;
 		int a[] = { 0, 6, 3, 8 };
 
 		int b[] = { 5, 7, 1, 9 };
